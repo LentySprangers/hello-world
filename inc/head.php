@@ -23,6 +23,14 @@
     src: url("assets/fonts/Lenty-Regular.ttf") format("truetype"), url("assets/fonts/Lenty-Regular.otf") format("opentype"), url("assets/fonts/Lenty-Regular.eot") format("embedded-opentype"), url("assets/fonts/Lenty-Regular.woff") format("woff"), url("assets/fonts/Lenty-Regular.woff2") format("woff2");
 }
 
+body {
+    background-color: rgb(201, 183, 145);
+}
+
+.grid {
+    background-color: rgb(216, 210, 204);
+}
+
 .title {
     color: rgb(77, 67, 56) !important;
     text-align: center;
@@ -58,6 +66,7 @@ a {
 
 a:hover {
     color: rgb(216, 210, 204);
+    text-decoration: none;
 }
 
 i.icon {

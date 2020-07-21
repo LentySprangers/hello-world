@@ -4,7 +4,7 @@
         <?php include("inc/head.php"); ?>
     </head>
 
-    <body style="background-color: rgb(201, 183, 145);">
+    <body>
         <header>
             <?php include("inc/nav.php"); ?>
         </header>
